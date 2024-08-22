@@ -6,6 +6,7 @@ import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
@@ -49,6 +50,14 @@ public class GameRecyclerAdapter extends RecyclerView.Adapter<GameRecyclerAdapte
             mGameIcon = itemView.findViewById(R.id.game_icon);
             mGameName = itemView.findViewById(R.id.game_name);
             mGameButton = itemView.findViewById(R.id.game_btn);
+
+            mGameButton.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View v) {
+                    Toast.makeText(v.getContext(), mGameName.getText().toString(),
+                            Toast.LENGTH_SHORT).show();
+                }
+            });
         }
     }
 }
