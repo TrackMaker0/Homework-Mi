@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:gravity="center_vertical"
+    android:padding="16dp">
+
+    <!-- 常见问题 -->
+    <TextView
+        android:id="@+id/tvCommonQuestions"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="常见问题"
+        android:textSize="14sp"
+        android:padding="8dp"
+        android:background="@drawable/bg_selected_tab"
+        android:textColor="@color/white" />
+
+    <!-- 登录 -->
+    <TextView
+        android:id="@+id/tvLogin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="登录"
+        android:textSize="14sp"
+        android:padding="8dp"
+        android:layout_marginStart="16dp"
+        android:textColor="@color/black" />
+
+    <!-- 修改信息 -->
+    <TextView
+        android:id="@+id/tvModifyInfo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="修改信息"
+        android:textSize="14sp"
+        android:padding="8dp"
+        android:layout_marginStart="16dp"
+        android:textColor="@color/black" />
+
+    <!-- 账号安全 -->
+    <TextView
+        android:id="@+id/tvAccountSecurity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="账号安全"
+        android:textSize="14sp"
+        android:padding="8dp"
+        android:layout_marginStart="16dp"
+        android:textColor="@color/black" />
+
+    <!-- 更多 -->
+    <TextView
+        android:id="@+id/tvMore"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="更多"
+        android:textSize="14sp"
+        android:padding="8dp"
+        android:layout_marginStart="16dp"
+        android:textColor="@color/blue" />
+
+</LinearLayout>

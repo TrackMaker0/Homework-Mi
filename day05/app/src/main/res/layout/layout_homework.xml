@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <LinearLayout
+        android:id="@+id/topmenu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <!-- 顶部导航栏 -->
+        <include
+            layout="@layout/layout_top_bar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <!-- 副导航栏 -->
+        <include
+            layout="@layout/layout_second_bar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+
+    </LinearLayout>
+
+    <!-- 标题 -->
+    <TextView
+        android:id="@+id/tvTitle"
+        android:layout_below="@id/topmenu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:text="小米账号帮助中心"
+        android:textSize="24sp"
+        android:textColor="@color/black"
+        android:layout_marginTop="16dp"/>
+
+    <!-- 搜索框 -->
+    <EditText
+        android:id="@+id/etSearch"
+        android:layout_below="@id/tvTitle"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@drawable/search_box_background"
+        android:hint="请输入问题关键词"
+        android:paddingLeft="12dp"
+        android:drawableStart="@drawable/ic_search"
+        android:layout_marginTop="16dp"/>
+
+    <!-- 自助服务区域 -->
+    <GridLayout
+        android:id="@+id/gridSelfService"
+        android:layout_below="@id/etSearch"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:useDefaultMargins="true"
+        android:alignmentMode="alignMargins"
+        android:columnCount="3"
+        android:rowCount="2"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="16dp" >
+
+        <!-- 重置密码 -->
+        <include layout="@layout/item_service"
+            android:id="@+id/item_service1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="1"/>
+        <!-- 账号申请 -->
+        <include layout="@layout/item_service"
+            android:id="@+id/item_service2"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="1"/>
+        <!-- 冻结账号 -->
+        <include layout="@layout/item_service"
+            android:id="@+id/item_service3"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="1"/>
+        <!-- 解冻账号 -->
+        <include layout="@layout/item_service"
+            android:id="@+id/item_service4"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="1"/>
+        <!-- 解封账号 -->
+        <include layout="@layout/item_service"
+            android:id="@+id/item_service5"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="1"/>
+        <!-- 注销账号 -->
+        <include layout="@layout/item_service"
+            android:id="@+id/item_service6"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="1"/>
+
+    </GridLayout>
+
+    <!-- 帮助中心选项 -->
+    <LinearLayout
+        android:id="@+id/helpCenterTabs"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/gridSelfService"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="?attr/selectableItemBackground"
+            android:padding="8dp">
+
+            <!-- 帮助中心 -->
+            <TextView
+                android:id="@+id/tvHelp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_marginStart="8dp"
+                android:text="帮助中心"
+                android:textColor="@color/black"
+                android:textSize="14sp" />
+
+            <!-- 更多 -->
+            <TextView
+                android:id="@+id/tvMore"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:text="更多"
+                android:textColor="@color/blue"
+                android:textSize="14sp" />
+
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:paddingTop="8dp"
+            android:paddingBottom="8dp">
+
+            <!-- 常见问题 -->
+            <TextView
+                android:id="@+id/tvCommonQuestions"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:padding="8dp"
+                android:text="常见问题"
+                android:textColor="@color/black"
+                android:textSize="14sp" />
+
+            <!-- 登录 -->
+            <TextView
+                android:id="@+id/tvLogin"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:padding="8dp"
+                android:text="登录"
+                android:textColor="@color/black"
+                android:textSize="14sp" />
+
+            <!-- 修改信息 -->
+            <TextView
+                android:id="@+id/tvModifyInfo"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:padding="8dp"
+                android:text="修改信息"
+                android:textColor="@color/black"
+                android:textSize="14sp" />
+
+            <!-- 账号安全 -->
+            <TextView
+                android:id="@+id/tvAccountSecurity"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:padding="8dp"
+                android:text="账号安全"
+                android:textColor="@color/black"
+                android:textSize="14sp" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <!-- 帮助中心区域 -->
+    <LinearLayout
+        android:id="@+id/llHelpCenter"
+        android:layout_below="@id/helpCenterTabs"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="8dp"
+        android:elevation="4dp">
+
+        <include layout="@layout/item_help_category"
+            android:id="@+id/help_category1"/>
+        <include layout="@layout/item_help_category"
+            android:id="@+id/help_category2"/>
+        <include layout="@layout/item_help_category"
+            android:id="@+id/help_category3" />
+        <include layout="@layout/item_help_category"
+            android:id="@+id/help_category4" />
+
+    </LinearLayout>
+
+</RelativeLayout>
