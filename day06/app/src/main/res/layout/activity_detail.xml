@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="16dp"
+    tools:context=".DetailActivity">
+
+    <ImageView
+        android:id="@+id/ivContentDetail"
+        android:layout_width="0dp"
+        android:layout_height="400dp"
+        android:layout_marginTop="32dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/image_default" />
+
+    <TextView
+        android:id="@+id/tvContentDetail"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:text="默认文本"
+        android:textSize="24sp"
+        android:textColor="@color/black"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/ivContentDetail" />
+
+    <Button
+        android:id="@+id/btn_loveIv"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:background="@drawable/ic_unlove"
+        app:layout_constraintBottom_toBottomOf="@+id/ivContentDetail"
+        app:layout_constraintEnd_toEndOf="@+id/ivContentDetail" />
+
+    <Button
+        android:id="@+id/btn_loveTv"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:background="@drawable/ic_unlove"
+        app:layout_constraintBottom_toBottomOf="@+id/tvContentDetail"
+        app:layout_constraintEnd_toEndOf="@+id/tvContentDetail" />
+</androidx.constraintlayout.widget.ConstraintLayout>
