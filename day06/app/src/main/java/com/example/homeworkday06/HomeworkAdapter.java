@@ -36,6 +36,16 @@ public class HomeworkAdapter extends BaseQuickAdapter<ContentItem, BaseViewHolde
                 .into(imageView);
 
         helper.setText(R.id.tvContent, item.getText());
+        if (item.isLoveImage()) {
+            loveIv.setBackgroundResource(R.drawable.ic_love);
+        } else {
+            loveIv.setBackgroundResource(R.drawable.ic_unlove);
+        }
+        if (item.isLoveText()) {
+            loveTv.setBackgroundResource(R.drawable.ic_love);
+        } else {
+            loveTv.setBackgroundResource(R.drawable.ic_unlove);
+        }
 
         imageView.setOnClickListener(new View.OnClickListener() {
             @Override
