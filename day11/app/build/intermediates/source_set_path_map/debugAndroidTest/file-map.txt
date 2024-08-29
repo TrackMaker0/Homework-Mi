@@ -1,0 +1,5 @@
+com.example.homeworkday11.test.app-androidTest-0 D:\Android\AndroidStudioProjects\HomeworkDay11\app\build\generated\res\resValues\androidTest\debug
+com.example.homeworkday11.test.app-mergeDebugAndroidTestResources-1 D:\Android\AndroidStudioProjects\HomeworkDay11\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.homeworkday11.test.app-mergeDebugAndroidTestResources-2 D:\Android\AndroidStudioProjects\HomeworkDay11\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.homeworkday11.test.app-merged_res-3 D:\Android\AndroidStudioProjects\HomeworkDay11\app\build\intermediates\merged_res\debugAndroidTest
+com.example.homeworkday11.test.app-core-1.6.1-4 D:\ProgramData\maven_repository\caches\transforms-3\93c51c23817c8898899f22cd1237c7b3\transformed\core-1.6.1\res

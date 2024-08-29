@@ -1,0 +1,3 @@
+com.example.homeworkday11.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

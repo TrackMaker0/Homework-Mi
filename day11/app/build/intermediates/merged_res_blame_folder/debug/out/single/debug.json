@@ -1,0 +1,146 @@
+[
+    {
+        "merged": "D:\\ProgramData\\maven_repository\\daemon\\8.2\\com.example.homeworkday11.app-merged_res-4:\\mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "D:\\ProgramData\\maven_repository\\daemon\\8.2\\com.example.homeworkday11.app-main-6:\\mipmap-anydpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\ProgramData\\maven_repository\\daemon\\8.2\\com.example.homeworkday11.app-merged_res-4:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "D:\\ProgramData\\maven_repository\\daemon\\8.2\\com.example.homeworkday11.app-main-6:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.homeworkday11.app-merged_res-4:/drawable_user_1.png.flat",
+        "source": "com.example.homeworkday11.app-main-6:/drawable/user_1.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\maven_repository\\daemon\\8.2\\com.example.homeworkday11.app-merged_res-4:\\layout_fragment_home.xml.flat",
+        "source": "D:\\ProgramData\\maven_repository\\daemon\\8.2\\com.example.homeworkday11.app-main-6:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "D:\\ProgramData\\maven_repository\\daemon\\8.2\\com.example.homeworkday11.app-merged_res-4:\\drawable_ic_home.xml.flat",
+        "source": "D:\\ProgramData\\maven_repository\\daemon\\8.2\\com.example.homeworkday11.app-main-6:\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "D:\\ProgramData\\maven_repository\\daemon\\8.2\\com.example.homeworkday11.app-merged_res-4:\\layout_layout_like.xml.flat",
+        "source": "D:\\ProgramData\\maven_repository\\daemon\\8.2\\com.example.homeworkday11.app-main-6:\\layout\\layout_like.xml"
+    },
+    {
+        "merged": "D:\\ProgramData\\maven_repository\\daemon\\8.2\\com.example.homeworkday11.app-merged_res-4:\\drawable_placeholder.xml.flat",
+        "source": "D:\\ProgramData\\maven_repository\\daemon\\8.2\\com.example.homeworkday11.app-main-6:\\drawable\\placeholder.xml"
+    },
+    {
+        "merged": "D:\\ProgramData\\maven_repository\\daemon\\8.2\\com.example.homeworkday11.app-merged_res-4:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\ProgramData\\maven_repository\\daemon\\8.2\\com.example.homeworkday11.app-main-6:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\ProgramData\\maven_repository\\daemon\\8.2\\com.example.homeworkday11.app-merged_res-4:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\ProgramData\\maven_repository\\daemon\\8.2\\com.example.homeworkday11.app-main-6:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\ProgramData\\maven_repository\\daemon\\8.2\\com.example.homeworkday11.app-merged_res-4:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "D:\\ProgramData\\maven_repository\\daemon\\8.2\\com.example.homeworkday11.app-main-6:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\ProgramData\\maven_repository\\daemon\\8.2\\com.example.homeworkday11.app-merged_res-4:\\drawable_ic_like.xml.flat",
+        "source": "D:\\ProgramData\\maven_repository\\daemon\\8.2\\com.example.homeworkday11.app-main-6:\\drawable\\ic_like.xml"
+    },
+    {
+        "merged": "D:\\ProgramData\\maven_repository\\daemon\\8.2\\com.example.homeworkday11.app-merged_res-4:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "D:\\ProgramData\\maven_repository\\daemon\\8.2\\com.example.homeworkday11.app-main-6:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\ProgramData\\maven_repository\\daemon\\8.2\\com.example.homeworkday11.app-merged_res-4:\\xml_data_extraction_rules.xml.flat",
+        "source": "D:\\ProgramData\\maven_repository\\daemon\\8.2\\com.example.homeworkday11.app-main-6:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.homeworkday11.app-merged_res-4:/drawable_user_2.jpg.flat",
+        "source": "com.example.homeworkday11.app-main-6:/drawable/user_2.jpg"
+    },
+    {
+        "merged": "D:\\ProgramData\\maven_repository\\daemon\\8.2\\com.example.homeworkday11.app-merged_res-4:\\drawable_user.png.flat",
+        "source": "D:\\ProgramData\\maven_repository\\daemon\\8.2\\com.example.homeworkday11.app-main-6:\\drawable\\user.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\maven_repository\\daemon\\8.2\\com.example.homeworkday11.app-merged_res-4:\\menu_bottom_navigation_menu.xml.flat",
+        "source": "D:\\ProgramData\\maven_repository\\daemon\\8.2\\com.example.homeworkday11.app-main-6:\\menu\\bottom_navigation_menu.xml"
+    },
+    {
+        "merged": "D:\\ProgramData\\maven_repository\\daemon\\8.2\\com.example.homeworkday11.app-merged_res-4:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "D:\\ProgramData\\maven_repository\\daemon\\8.2\\com.example.homeworkday11.app-main-6:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\ProgramData\\maven_repository\\daemon\\8.2\\com.example.homeworkday11.app-merged_res-4:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\ProgramData\\maven_repository\\daemon\\8.2\\com.example.homeworkday11.app-main-6:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\ProgramData\\maven_repository\\daemon\\8.2\\com.example.homeworkday11.app-merged_res-4:\\layout_item_image.xml.flat",
+        "source": "D:\\ProgramData\\maven_repository\\daemon\\8.2\\com.example.homeworkday11.app-main-6:\\layout\\item_image.xml"
+    },
+    {
+        "merged": "D:\\ProgramData\\maven_repository\\daemon\\8.2\\com.example.homeworkday11.app-merged_res-4:\\drawable_image_default.xml.flat",
+        "source": "D:\\ProgramData\\maven_repository\\daemon\\8.2\\com.example.homeworkday11.app-main-6:\\drawable\\image_default.xml"
+    },
+    {
+        "merged": "D:\\ProgramData\\maven_repository\\daemon\\8.2\\com.example.homeworkday11.app-merged_res-4:\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\ProgramData\\maven_repository\\daemon\\8.2\\com.example.homeworkday11.app-main-6:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\ProgramData\\maven_repository\\daemon\\8.2\\com.example.homeworkday11.app-merged_res-4:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\ProgramData\\maven_repository\\daemon\\8.2\\com.example.homeworkday11.app-main-6:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\ProgramData\\maven_repository\\daemon\\8.2\\com.example.homeworkday11.app-merged_res-4:\\drawable_ic_unlike.xml.flat",
+        "source": "D:\\ProgramData\\maven_repository\\daemon\\8.2\\com.example.homeworkday11.app-main-6:\\drawable\\ic_unlike.xml"
+    },
+    {
+        "merged": "D:\\ProgramData\\maven_repository\\daemon\\8.2\\com.example.homeworkday11.app-merged_res-4:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "D:\\ProgramData\\maven_repository\\daemon\\8.2\\com.example.homeworkday11.app-main-6:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.homeworkday11.app-merged_res-4:/layout_fragment_profile.xml.flat",
+        "source": "com.example.homeworkday11.app-main-6:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "D:\\ProgramData\\maven_repository\\daemon\\8.2\\com.example.homeworkday11.app-merged_res-4:\\drawable_like_selector.xml.flat",
+        "source": "D:\\ProgramData\\maven_repository\\daemon\\8.2\\com.example.homeworkday11.app-main-6:\\drawable\\like_selector.xml"
+    },
+    {
+        "merged": "D:\\ProgramData\\maven_repository\\daemon\\8.2\\com.example.homeworkday11.app-merged_res-4:\\layout_activity_main.xml.flat",
+        "source": "D:\\ProgramData\\maven_repository\\daemon\\8.2\\com.example.homeworkday11.app-main-6:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\ProgramData\\maven_repository\\daemon\\8.2\\com.example.homeworkday11.app-merged_res-4:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\ProgramData\\maven_repository\\daemon\\8.2\\com.example.homeworkday11.app-main-6:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\ProgramData\\maven_repository\\daemon\\8.2\\com.example.homeworkday11.app-merged_res-4:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "D:\\ProgramData\\maven_repository\\daemon\\8.2\\com.example.homeworkday11.app-main-6:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\ProgramData\\maven_repository\\daemon\\8.2\\com.example.homeworkday11.app-merged_res-4:\\layout_activity_detail.xml.flat",
+        "source": "D:\\ProgramData\\maven_repository\\daemon\\8.2\\com.example.homeworkday11.app-main-6:\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "D:\\ProgramData\\maven_repository\\daemon\\8.2\\com.example.homeworkday11.app-merged_res-4:\\mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "D:\\ProgramData\\maven_repository\\daemon\\8.2\\com.example.homeworkday11.app-main-6:\\mipmap-anydpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\ProgramData\\maven_repository\\daemon\\8.2\\com.example.homeworkday11.app-merged_res-4:\\layout_fragment_profile.xml.flat",
+        "source": "D:\\ProgramData\\maven_repository\\daemon\\8.2\\com.example.homeworkday11.app-main-6:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "D:\\ProgramData\\maven_repository\\daemon\\8.2\\com.example.homeworkday11.app-merged_res-4:\\xml_backup_rules.xml.flat",
+        "source": "D:\\ProgramData\\maven_repository\\daemon\\8.2\\com.example.homeworkday11.app-main-6:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "D:\\ProgramData\\maven_repository\\daemon\\8.2\\com.example.homeworkday11.app-merged_res-4:\\drawable_ic_profile.xml.flat",
+        "source": "D:\\ProgramData\\maven_repository\\daemon\\8.2\\com.example.homeworkday11.app-main-6:\\drawable\\ic_profile.xml"
+    },
+    {
+        "merged": "D:\\ProgramData\\maven_repository\\daemon\\8.2\\com.example.homeworkday11.app-merged_res-4:\\drawable_error.xml.flat",
+        "source": "D:\\ProgramData\\maven_repository\\daemon\\8.2\\com.example.homeworkday11.app-main-6:\\drawable\\error.xml"
+    },
+    {
+        "merged": "D:\\ProgramData\\maven_repository\\daemon\\8.2\\com.example.homeworkday11.app-merged_res-4:\\layout_item_text.xml.flat",
+        "source": "D:\\ProgramData\\maven_repository\\daemon\\8.2\\com.example.homeworkday11.app-main-6:\\layout\\item_text.xml"
+    }
+]

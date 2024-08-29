@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "com.example.homeworkday11.app-merged_res-4:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.homeworkday11.app-main-5:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.homeworkday11.app-merged_res-4:/drawable_user_1.png.flat",
+        "source": "com.example.homeworkday11.app-main-5:/drawable/user_1.png"
+    },
+    {
+        "merged": "com.example.homeworkday11.app-merged_res-4:/layout_item_text.xml.flat",
+        "source": "com.example.homeworkday11.app-main-5:/layout/item_text.xml"
+    },
+    {
+        "merged": "com.example.homeworkday11.app-merged_res-4:/layout_activity_main.xml.flat",
+        "source": "com.example.homeworkday11.app-main-5:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.homeworkday11.app-merged_res-4:/menu_bottom_navigation_menu.xml.flat",
+        "source": "com.example.homeworkday11.app-main-5:/menu/bottom_navigation_menu.xml"
+    },
+    {
+        "merged": "com.example.homeworkday11.app-merged_res-4:/drawable_error.xml.flat",
+        "source": "com.example.homeworkday11.app-main-5:/drawable/error.xml"
+    },
+    {
+        "merged": "com.example.homeworkday11.app-merged_res-4:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.homeworkday11.app-main-5:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.homeworkday11.app-merged_res-4:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.homeworkday11.app-main-5:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.homeworkday11.app-merged_res-4:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "com.example.homeworkday11.app-main-5:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.homeworkday11.app-merged_res-4:/drawable_user_2.jpg.flat",
+        "source": "com.example.homeworkday11.app-main-5:/drawable/user_2.jpg"
+    },
+    {
+        "merged": "com.example.homeworkday11.app-merged_res-4:/layout_activity_detail.xml.flat",
+        "source": "com.example.homeworkday11.app-main-5:/layout/activity_detail.xml"
+    },
+    {
+        "merged": "com.example.homeworkday11.app-merged_res-4:/drawable_like_selector.xml.flat",
+        "source": "com.example.homeworkday11.app-main-5:/drawable/like_selector.xml"
+    },
+    {
+        "merged": "com.example.homeworkday11.app-merged_res-4:/xml_backup_rules.xml.flat",
+        "source": "com.example.homeworkday11.app-main-5:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.homeworkday11.app-merged_res-4:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.homeworkday11.app-main-5:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.homeworkday11.app-merged_res-4:/drawable_ic_profile.xml.flat",
+        "source": "com.example.homeworkday11.app-main-5:/drawable/ic_profile.xml"
+    },
+    {
+        "merged": "com.example.homeworkday11.app-merged_res-4:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.homeworkday11.app-main-5:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.homeworkday11.app-merged_res-4:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.homeworkday11.app-main-5:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.homeworkday11.app-merged_res-4:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.homeworkday11.app-main-5:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.homeworkday11.app-merged_res-4:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.homeworkday11.app-main-5:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.homeworkday11.app-merged_res-4:/drawable_placeholder.xml.flat",
+        "source": "com.example.homeworkday11.app-main-5:/drawable/placeholder.xml"
+    },
+    {
+        "merged": "com.example.homeworkday11.app-merged_res-4:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.homeworkday11.app-main-5:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.homeworkday11.app-merged_res-4:/layout_fragment_profile.xml.flat",
+        "source": "com.example.homeworkday11.app-main-5:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.example.homeworkday11.app-merged_res-4:/drawable_ic_unlike.xml.flat",
+        "source": "com.example.homeworkday11.app-main-5:/drawable/ic_unlike.xml"
+    },
+    {
+        "merged": "com.example.homeworkday11.app-merged_res-4:/layout_fragment_home.xml.flat",
+        "source": "com.example.homeworkday11.app-main-5:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.homeworkday11.app-merged_res-4:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.homeworkday11.app-main-5:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.homeworkday11.app-merged_res-4:/layout_layout_like.xml.flat",
+        "source": "com.example.homeworkday11.app-main-5:/layout/layout_like.xml"
+    },
+    {
+        "merged": "com.example.homeworkday11.app-merged_res-4:/drawable_ic_home.xml.flat",
+        "source": "com.example.homeworkday11.app-main-5:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "com.example.homeworkday11.app-merged_res-4:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.homeworkday11.app-main-5:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.homeworkday11.app-merged_res-4:/drawable_ic_like.xml.flat",
+        "source": "com.example.homeworkday11.app-main-5:/drawable/ic_like.xml"
+    },
+    {
+        "merged": "com.example.homeworkday11.app-merged_res-4:/layout_item_image.xml.flat",
+        "source": "com.example.homeworkday11.app-main-5:/layout/item_image.xml"
+    },
+    {
+        "merged": "com.example.homeworkday11.app-merged_res-4:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.homeworkday11.app-main-5:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.homeworkday11.app-merged_res-4:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "com.example.homeworkday11.app-main-5:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.homeworkday11.app-merged_res-4:/drawable_image_default.xml.flat",
+        "source": "com.example.homeworkday11.app-main-5:/drawable/image_default.xml"
+    },
+    {
+        "merged": "com.example.homeworkday11.app-merged_res-4:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.homeworkday11.app-main-5:/mipmap-xhdpi/ic_launcher.webp"
+    }
+]
